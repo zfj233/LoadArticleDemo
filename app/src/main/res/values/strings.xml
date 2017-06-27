@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoadArticles</string>
+    <string name="my_favor">我的收藏</string>
+    <string name="pre_article">上一篇</string>
+    <string name="add_to_favor">收藏</string>
+    <string name="next_article">下一篇</string>
+    <string name="ormlitedemo">ormliteDemo</string>
+    <string name="success_add_favor">收藏成功！</string>
+    <string name="have_been">这篇文章已经收藏过了！</string>
+</resources>
